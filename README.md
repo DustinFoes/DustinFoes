@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DustinFoes
 - 👀 I’m interested in computers and code
-- 🌱 I’m currently learning Python3
+- 🌱 I’m currently learning Python3, CompTia A+, 
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me: https://discord.gg/QyuEzNZg
 
